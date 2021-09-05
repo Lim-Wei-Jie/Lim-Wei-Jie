@@ -17,4 +17,9 @@
     
     2. [stylesheet.css] A new external CSS file used to style index.html.
 
-> (Week 3) Box Model + Bootstrap syntax
+> (Week 3) Box Model + Bootstrap
+    
+    1. Bootstrap: container, grid, card, nav, navbar, form, table, and more.
+    
+    2. [index.html] Used bootstrap container, grid system, card, font-awesome social icons, nav, spacing, embedded youtube video.
+    
